@@ -7,3 +7,5 @@ sourse users.sh
 get_list
 
 sourse /tmp/user
+
+echo "Change remote repository"
